@@ -1,0 +1,12 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Flag">
+<mask id="mask0_836_4213" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<rect id="Rectangle 85" width="16" height="16" rx="8" fill="#EBEBEC"/>
+</mask>
+<g mask="url(#mask0_836_4213)">
+<rect id="Rectangle 93" width="16" height="16" rx="8" fill="#FFE786"/>
+<rect id="Rectangle 91" y="8" width="16" height="4" fill="#5373E9"/>
+<rect id="Rectangle 92" y="12" width="16" height="4" fill="#FA648D"/>
+</g>
+</g>
+</svg>
